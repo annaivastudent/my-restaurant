@@ -1,0 +1,152 @@
+.footer {
+  height: 617px;
+  background-color: #ffffff;
+  margin-top: 55px;
+}
+.subscription {
+  display: flex;
+  flex-direction: column;
+  width: 1280px;
+  height: 93px;
+  padding-top: 64px;
+  padding-left: 80px;
+}
+.black-word {
+  color: #101113;
+  font-size: 28px;
+  font-weight: bold;
+  line-height: 28px;
+  letter-spacing: 0%;
+}
+.red-word {
+  color: #f03328;
+  font-size: 28px;
+  font-weight: bold;
+  line-height: 28px;
+  letter-spacing: 0%;
+}
+.subtitle-subscription {
+  width: 524px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0%;
+  color: #5c5c5c;
+  margin-top: 8px;
+}
+.email-input {
+  width: 320px;
+  height: 44px;
+  border: 1px solid #d6d6d6;
+  border-radius: 8px;
+  padding: 12px 12px;
+  margin-left: 322px;
+}
+.btn-subscribe {
+  width: 102px;
+  height: 44px;
+  background-color: #f03328;
+  border-radius: 8px;
+  margin-left: 12px;
+  color: #ffffff;
+}
+.line {
+  width: 1280px;
+  height: 1px;
+  background-color: #e6e6e6;
+  margin-top: 32px;
+}
+.text-form {
+  display: flex;
+  flex-direction: row;
+}
+.email-btn {
+  display: flex;
+  flex-direction: row;
+}
+.list-links {
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+  margin-top: 64px;
+}
+.title-links {
+  font-size: 16px;
+  font-weight: medium;
+  line-height: 120%;
+  letter-spacing: 0%;
+  color: #1f1f1f;
+}
+.list-links div li {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 120%;
+  letter-spacing: 0%;
+  color: #5c5c5c;
+}
+#first-row {
+  margin-top: 16px;
+}
+.list-links div {
+  width: 230.4px;
+  height: 203px;
+}
+.position-between {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.line-after {
+  width: 1280px;
+  height: 1px;
+  background-color: #e6e6e6;
+  margin-top: 64px;
+}
+.line-privacy {
+  display: flex;
+  flex-direction: row;
+  gap: 378px;
+  padding-top: 12px;
+  padding-left: 503px;
+}
+.main-points {
+  display: flex;
+  flex-direction: row;
+  width: 182px;
+  height: 16px;
+  gap: 32px;
+}
+.main-points p {
+  font-size: 12px;
+  font-weight: 400;
+  color: #5c5f66;
+}
+.copyright p {
+  font-size: 12px;
+  color: #a6a7ab;
+  width: 217px;
+  height: 16px;
+}
+.marker-point {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.marker {
+  width: 54px;
+  height: 27px;
+  background-color: #fef4e5;
+  border-radius: 64px;
+  margin-left: 8px;
+  color: #ff9e0c;
+  padding: 4px 10px;
+}
+.arrow-text {
+  display: flex;
+  flex-direction: row;
+}
+.arrow {
+  width: 16px;
+  height: 16px;
+  margin: 1.5px 8px;
+}

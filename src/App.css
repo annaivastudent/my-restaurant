@@ -1,0 +1,76 @@
+.landing-position {
+  margin-left: 71.5px;
+}
+.items {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+.firstitem,
+.seconditem,
+.thirditem,
+.fourthitem {
+  display: flex;
+  flex-direction: column;
+  width: 307px;
+  height: 330px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  padding: 22px auto;
+}
+.dishblock {
+  display: flex;
+  flex-direction: row;
+  gap: 25px;
+}
+#dishblock1 {
+  margin-top: 68px;
+}
+.dishcard {
+  width: 417px;
+  height: 486px;
+  background-color: #ffffff;
+  border-radius: 18px;
+}
+#dishblock2 {
+  margin-top: 64px;
+}
+.infoblock {
+  display: flex;
+  flex-direction: row;
+  gap: 84px;
+}
+.maindishimg {
+  width: 578px;
+  height: 574px;
+  border-radius: 29px;
+}
+.inforightblock {
+  width: 639px;
+  height: 628px;
+  margin-bottom: 80px;
+}
+.props {
+  font-size: 50px;
+  font-weight: bold;
+  line-height: 120%;
+  letter-spacing: 0%;
+  margin-bottom: 35px;
+}
+.propsitem1,
+.propsitem2,
+.propsitem3 {
+  background-color: #fff;
+  border-radius: 18px;
+  display: flex;
+  flex-direction: row;
+  gap: 26px;
+  width: 635px;
+  height: 159px;
+}
+.propsitem2,
+.propsitem3 {
+  margin-top: 41px;
+}

@@ -1,0 +1,21 @@
+.icons {
+  width: 90px;
+  height: 90px;
+  margin: 34.5px 0px 0px 16px;
+}
+.textitems {
+  margin-top: 18px;
+}
+.headingitem {
+  color: #000000;
+  font-size: 31px;
+  font-weight: bold;
+}
+.subheadingitem {
+  margin-top: 8px;
+  font-size: 20px;
+  font-weight: medium;
+  line-height: 130%;
+  letter-spacing: 0%;
+  color: #404040;
+}
