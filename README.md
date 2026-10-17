@@ -61,7 +61,6 @@ Make sure you have Node.js and npm installed on your computer.
 
 ```text
 my-restaurant/
-├── public/
 ├── src/
 │   ├── assets/
 │   ├── components/
@@ -72,6 +71,10 @@ my-restaurant/
 │   │   ├── icons/
 │   │   ├── customers/
 │   │   └── chefdishes/
+│   │   └── arrows/
+│   │   └── grades/
+│   │   └── maindish/
+│   │   └── title-icon/
 │   ├── App.jsx
 │   ├── App.css
 │   ├── index.css
